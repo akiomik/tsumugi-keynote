@@ -8,6 +8,10 @@ Tsumugiは、大体いい感じになるKeynoteテンプレートです。
 Tsumugiは [@sanographix](https://github.com/sanographix) さんが作成された[Azusa](http://sanographix.github.io/azusa-keynote/)もとに作られたKeynote用テンプレートです。
 色味の変更と、配布形式の変更が行われています。
 
+## スクリーンショット
+
+![スクリーンショット](https://raw.githubusercontent.com/akiomik/tsumugi-keynote/master/screenshot.png)
+
 ## 動作環境
 
 - Mac OSX Mavericks 以降
