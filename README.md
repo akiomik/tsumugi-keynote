@@ -1,28 +1,33 @@
-Azusa
+Tsumugi
 =============
 
-Azusaは、大体いい感じになるKeynoteテンプレートです。
+Tsumugiは、大体いい感じになるKeynoteテンプレートです。
 
-### 解説記事
+### 概要
 
-<http://memo.sanographix.net/post/82160791768>
+Tsumugiは @sanographix さんが作成された[Azusa](http://sanographix.github.io/azusa-keynote/)もとに作られたKeynote用テンプレートです。
+色味の変更と、配布形式の変更が行われています。
 
 ### 動作環境
 
 - Mac OSX Mavericks 以降
 
-## Install
+## 導入手順
 
-- `azusa.zip` を解凍
-- `azusa.key` を Keynote で開く
-- ファイル -> テーマを保存 でテーマとして登録できる
+- `tsumugi.kth` をダウンロードする
+- `tsumugi.kth` を Keynote で開く
+- 表示されたダイアログで`テーマセレクタに追加`を選択する
 
-## Author
+### もとになったAzusaについて
 
-#### @sanographix
+* 著作者
+    * @sanographix
+    * <http://www.sanographix.net/>
+    * Twitter: [@sanographix](https://twitter.com/sanographix)
+    * GitHub: [sanographix](https://github.com/sanographix)
+* [解説記事](http://memo.sanographix.net/post/82160791768)
 
-* <http://www.sanographix.net/>
-* Twitter: [@sanographix](https://twitter.com/sanographix)
-* GitHub: [sanographix](https://github.com/sanographix)
+## ライセンス
 
 このテンプレートの利用に関するいかなる被害・損害について、作者は一切の責任を負わないものとします。
+
