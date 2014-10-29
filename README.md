@@ -18,7 +18,7 @@ Tsumugiは [@sanographix](https://github.com/sanographix) さんが作成され�
 
 ## 導入手順
 
-- `tsumugi.kth` をダウンロードする
+- `tsumugi.kth` を[ダウンロード](https://github.com/akiomik/tsumugi-keynote/raw/master/tsumugi.kth)する
 - `tsumugi.kth` を Keynote で開く
 - 表示されたダイアログで`テーマセレクタに追加`を選択する
 
